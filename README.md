@@ -15,3 +15,9 @@ There are (3??) files below the top toolbar
     - Do not touch! Changing this code makes it fail.
   - Form1.Designer.cs describes the operating interface used to control the chiller 
   To see the operating interface, click on Run at the top of the screen. This pulls up Form1. 
+## Physical Setup
+### Chiller
+### Ports
+### Arduino
+### Sensors
+## Communicating with the chiller
