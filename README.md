@@ -46,7 +46,7 @@ There are (3??) files below the top toolbar
           - In the Time On/Off box, set your desired half cycle time in seconds.
                     - This is how long the chiller will spend on and off. A time input of 1800 seconds will turn the chiller on for 30 minutes, then off for 30 minutes. 
           - The # of Cycles button lets you control how many times you want the chiller to be on and off. 
-                    - Following the previous example, an input of 2 will have the chiller turn on for 30 minutes and off for 30 minutes twice for a total of 2 hours. 
+                   - Following the previous example, an input of 2 will have the chiller turn on for 30 minutes and off for 30 minutes twice for a total of 2 hours. 
                               
 **Arduino Serial:**
 
@@ -78,8 +78,23 @@ Chiller includes the following components
                     - side hole for connecting ports, Arduino with sensors attached
                     - holes for inserting antifreeze pipes
                     - peltier?????
-                    - coldplate that does STUFF!!!!!!
+                    - coldplate that does STUFF!!!!!
                     
+### Heater
+- Resistances for the heater:
+          - 1. 49.3 
+          - 2. 49.35
+          - 3. 51.8 :: Upon second measurement, reads 53.9 and increases resistance
+          - 4. 49.3
+          - 5. 49.3
+          - 6. 49.3
+          - 7. 49.4
+          - 8. 49.4
+          - 9. 52.0 :: Upon second measurement, reads 53.9 and increases resistance
+          - 10. 49.5
+          - 11. 49.5
+          - 12. 49.5
+
 ### Ports
 ### Arduino
 ### Sensors
