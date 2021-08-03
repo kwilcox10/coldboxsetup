@@ -82,12 +82,12 @@ Chiller includes the following components
                     
 ### Heater
 - Resistances for the heater:
-          - 1. 49.3 
-          - 2. 49.35
-          - 3. 51.8 :: Upon second measurement, reads 53.9 and increases resistance
-          - 4. 49.3
-          - 5. 49.3
-          - 6. 49.3
+           1. 49.3 
+           2. 49.35
+           3. 51.8 :: Upon second measurement, reads 53.9 and increases resistance
+           4. 49.3
+           5. 49.3
+           6. 49.3
           - 7. 49.4
           - 8. 49.4
           - 9. 52.0 :: Upon second measurement, reads 53.9 and increases resistance
